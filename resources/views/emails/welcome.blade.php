@@ -12,7 +12,7 @@
                 dding:32px; box-shadow:0 4px 12px rgba(0,0,0,0.05);">
                     <tr>
                         <td align="center">
-                            <h2 style="color:#1e293b;">¡Hola, {{ $nombre }}! </h2>
+                            <h2 style="color:#1e293b;">Hola {{ $nombre }}</h2>
                             <p style="color:#475569; font-size:16px;">Gracias por registrarte. Tu cu
                             enta ha sido creada con éxito.</p>
                             <div style="margin-top:20px; padding:12px; background:#e0f2fe; color:#03
